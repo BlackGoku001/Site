@@ -1,0 +1,15 @@
+#text{
+    color:orange;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1{
+    color:yellow;
+    height: 50px;
+    text-align: center;
+}
+ #ex{
+    background-repeat: no-repeat;
+    background-position: center ;
+ }
+
